@@ -1,18 +1,19 @@
 {
-  "name": "The kitchen light",
-  "device_id": "kitchen-light",
-  "device_stats_interval": 60,
-  "wifi": {
-    "ssid": "CERN",
-    "password": ""
-  },
-  "mqtt": {
-    "host": "128.141.118.65"
-  },
-  "ota": {
-    "enabled": true
-  },
-  "settings": {
-    "percentage": 55
-  }
+  "name": "rrok-wemos",
+"device_id": "rrok-wemos",
+"device_stats_interval": 60,
+"wifi": {
+  "ssid": "CERN",
+  "password": ""
+},
+"mqtt": {
+  "host" : "test.mosquitto.org",
+  "port": 1883
+},
+"ota": {
+  "enabled": false
+},
+"settings": {
+  "percentage": 55
+}
 }
