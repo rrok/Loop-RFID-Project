@@ -1,0 +1,8 @@
+{
+    "HOST": "test.mosquitto.org",
+    "PORT": 1883,
+    "KEEPALIVE": 10,
+    "DEVICE_NAME": "expo READER",
+    "DEVICE_ID": "a54dre343543",
+    "TOPIC": "homie"
+}
