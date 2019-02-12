@@ -1,6 +1,6 @@
 {
-  "name": "rrok-wemos",
-"device_id": "rrok-wemos",
+"name": "rrok-wemos",
+"device_id": "expo-wemos",
 "device_stats_interval": 60,
 "wifi": {
   "ssid": "CERN",
